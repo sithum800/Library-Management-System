@@ -1,0 +1,21 @@
+# Visual Studio specific
+.vs/
+*.suo
+*.user
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Packages
+packages/
+# Except packages.config
+!packages/repositories.config
+!packages/**/packages.config
+
+# Misc
+*.bak
+*.tmp
+
+# If you handle configuration secrets separately, uncomment the line below
+# App.config 
